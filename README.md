@@ -60,12 +60,7 @@ This will generate a `otomoto_cars.csv` file containing the scraped car listings
 
 
 ## Troubleshooting
-- **Scraper Issues:** The website structure might have changed. Check otomoto.pl `otomoto_scrapper.py` and update selectors accordingly.
-
-## Future Improvements
-- Enhance the scraper to collect more detailed data.
-- Improve the prediction model with additional features.
-- Deploy the model as a web service.
-
+- **Scraper Issues:** The website structure might have changed/
+  
 ## Contact
-For any issues or questions, open an issue in the repository or reach out to the project contributors.
+Magdalena Sokolowska 2025
