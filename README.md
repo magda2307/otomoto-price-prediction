@@ -2,7 +2,7 @@
 **Magdalena Sokolowska**
 **Predicting used, no accident cars price**
 
-## IMPORTANT Alternative: Download Preprocessed Data
+## IMPORTANT Alternative: Download Scrapped Data
 If your PC is slow or you want to omit hours of scraping when generating `otomoto_cars.csv`, you can download the dataset from: \
 [Google Drive Link](https://drive.google.com/file/d/1sGnE9eJetNg1TcoGLSfsMehVG4dB1yWF/view?usp=sharing)
 
