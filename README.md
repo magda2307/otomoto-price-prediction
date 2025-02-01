@@ -1,6 +1,6 @@
 # Otomoto Price Prediction - PAD I Final Project
-## Magdalena Sokolowska
-## Predicting used, no accident car price
+**Magdalena Sokolowska**
+**Predicting used, no accident cars price**
 
 ## IMPORTANT Alternative: Download Preprocessed Data
 If your PC is slow or you want to omit hours of scraping when generating `otomoto_cars.csv`, you can download the dataset from: \
