@@ -25,8 +25,8 @@ OUTPUTS:
 DEPENDENCIES:
 - requests
 - beautifulsoup4
-- retry (for robust fetch retry logic)
-- Python 3.x
+- retry 
+- Python 
 
 USAGE:
 1. Ensure dependencies are installed:
