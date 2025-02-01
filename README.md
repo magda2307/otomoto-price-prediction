@@ -52,8 +52,8 @@ This will generate a `otomoto_cars.csv` file containing the scraped car listings
 
 ## Running the Prediction Model
 **Open Jupyter Notebook:**
-- 1. **Navigate to `otomoto_car_price_prediction.ipynb` and open it.**
-- 2. **Run the cells in order to process the dataset and train the prediction model.**
+- **Navigate to `otomoto_car_price_prediction.ipynb` and open it.**
+- **Run the cells in order to process the dataset and train the prediction model.**
 
 ## Troubleshooting
 - **Scraper Issues:** The website structure might have changed.
